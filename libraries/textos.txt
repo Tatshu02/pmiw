@@ -1,0 +1,25 @@
+1"pantallaActual 1.";
+2 "Se escuchan ruidos fuera de la sala de seguridad.";
+3sofia y florencia
+ 4"Mike descubre que en el pasillo hay un animatrónico viniendo hacia el.";
+5"mike ve un pasillo desolado";
+6"mike escucha un ruido fuerte a la lejania";
+7"mike ve la cabina de segurida desordenada pero desolada ";
+8"mike ve dos puertas en cada extremo";
+9"se escucha algo corriendo hacia vos elegi una puerta";
+10"final bueno mike sale de la pizzeria";
+11"final malo chica te come";
+12"El animatrónico está corriendo hacia la cabina de seguridad";
+ 13"Mike rápidamente destapa y entra al conducto de ventilación";
+14"Mike decide esconderse debajo del escritorio";
+15"Final malo: Freddy entra a la sala de seguridad y mata a Mike";
+16 "Mike se encuentra con dos salidas de lados opuestos";
+ 17"Final bueno: Mike sale de la pizzería";
+ 18"Mike se encuentra con el comedor";
+ 19"Mike se dirige a la cocina en busca de algún arma";
+  20 "Mike encuentra un encendedor";
+ 21"Final malo: Bonny entra en la cocina y mata a Mike";
+22"El humo ahuyenta a los animatrónicos y sale por la ventana";
+23 "Final bueno: Mike sale con quemaduras leves y denuncia a William Afton por daños";
+ 
+  
