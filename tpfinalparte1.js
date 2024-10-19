@@ -1,4 +1,5 @@
 //definitivo
+//https://youtu.be/x7xkcwliD1g?si=KG4W3qThiOoP-x88
 let pantalla = 1;
 let textos = [];
 let fondos = [];
