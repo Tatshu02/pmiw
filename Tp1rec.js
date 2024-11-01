@@ -4,7 +4,7 @@ let movimiento = 0;
 
 
 function preload() {
-  img = loadImage("data/img.jpg"); // Asegúrate de que la imagen esté en la carpeta "data"
+  img = loadImage("data/img.jpg"); 
 }
 function setup() {
   createCanvas(800, 400); 
