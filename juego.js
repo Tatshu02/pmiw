@@ -96,15 +96,13 @@ reiniciarJuego() {
 
     this.temporizador = null;
   }
-  controlarDisparosAEnemigos() {
-    if (this.personaje.haDisparadoBala()) {
-      for (let enemigo of this.enemigos) {
-        enemigo.haTocadoLaBala(this.personaje.bala);
-         if (enemigo.imagen === chica && !this.chicaDerrotada) {
-            this.chicaDerrotada = true; // Marca a "chica" como derrotada
-          }
-        
-      }
+ controlarDisparosAEnemigos() {
+  if (this.personaje.haDisparadoBala()) {
+    for (let i = 0; i < this.enemigos.length; i++) {
+      let enemigo = this.enemigos[i];
+      enemigo.haTocadoLaBala(this.personaje.bala);
     }
   }
 }
+}
+
